@@ -1,0 +1,51 @@
+EmployeeID,Name,Experience_Years,Education_Level,Age,Gender,Monthly_Salary,Experience_Category,Age_Group,Salary_Per_Experience,Is_Senior,Education_Level_Encoded,Gender_Encoded,Department_Hr,Department_It,Department_Marketing,Department_Operations,City_Chennai,City_Delhi,City_Hyderabad,City_Mumbai,Salary_Bracket_Low,Salary_Bracket_Medium
+1,Employee_1,15,Master,53,Female,111416.0,Expert,46-55,6963.5,True,3,0,0,0,1,0,0,1,0,0,0,0
+2,Employee_2,7,Bachelor,25,Female,95271.0,Mid-Level,20-25,11908.875,False,2,0,0,0,0,1,0,0,0,0,0,1
+3,Employee_3,12,High school,51,Female,69064.0,Senior,46-55,5312.615384615385,True,0,0,0,1,0,0,0,0,1,0,0,1
+4,Employee_4,8,Phd,44,Male,95091.0,Mid-Level,36-45,10565.666666666666,False,4,1,0,0,0,1,0,1,0,0,0,1
+5,Employee_5,15,Master,36,Female,132450.0,Expert,36-45,8278.125,True,3,0,0,0,0,1,0,1,0,0,0,0
+6,Employee_6,3,High school,50,Male,65818.0,Junior,46-55,16454.5,False,0,1,0,0,0,0,0,0,0,1,0,1
+7,Employee_7,14,Phd,57,Male,70525.0,Senior,55+,4701.666666666667,True,4,1,0,1,0,0,0,0,0,1,0,1
+8,Employee_8,17,Phd,34,Female,44830.0,Expert,26-35,2490.5555555555557,True,4,0,0,1,0,0,0,0,0,0,1,0
+9,Employee_9,4,Bachelor,53,Male,42429.0,Junior,46-55,8485.8,False,2,1,0,1,0,0,0,0,1,0,1,0
+10,Employee_10,18,High school,28,Male,31893.0,Expert,26-35,1678.578947368421,True,0,1,0,0,0,1,0,0,0,1,1,0
+11,Employee_11,8,Phd,43,Male,141381.0,Mid-Level,36-45,15709.0,False,4,1,0,0,1,0,0,1,0,0,0,0
+12,Employee_12,4,Master,49,Female,104909.0,Junior,46-55,20981.8,False,3,0,0,1,0,0,0,0,1,0,0,0
+13,Employee_13,2,Master,23,Female,72333.0,Junior,20-25,24111.0,False,3,0,0,0,0,1,0,0,1,0,0,1
+14,Employee_14,6,Bachelor,27,Male,28436.0,Mid-Level,26-35,4062.285714285714,False,2,1,0,0,0,0,0,1,0,0,1,0
+15,Employee_15,10,Phd,49,Female,99290.0,Senior,46-55,9026.363636363636,True,4,0,0,0,1,0,0,0,0,1,0,1
+16,Employee_16,4,High school,49,Female,101213.0,Junior,46-55,20242.6,False,0,0,0,0,0,0,0,1,0,0,0,0
+17,Employee_17,18,Master,41,Female,30895.0,Expert,36-45,1626.0526315789473,True,3,0,0,0,1,0,0,0,1,0,1,0
+18,Employee_18,12,Phd,51,Female,44738.0,Senior,46-55,3441.3846153846152,True,4,0,0,0,0,1,1,0,0,0,1,0
+19,Employee_19,2,Phd,32,Male,55746.0,Junior,26-35,18582.0,False,4,1,1,0,0,0,1,0,0,0,0,1
+20,Employee_20,10,Bachelor,49,Male,74377.0,Senior,46-55,6761.545454545455,True,2,1,0,0,1,0,0,0,0,0,0,1
+21,Employee_21,4,Master,46,Female,73404.0,Junior,46-55,14680.8,False,3,0,0,0,0,0,0,1,0,0,0,1
+22,Employee_22,14,Master,54,Female,79045.0,Senior,46-55,5269.666666666667,True,3,0,0,0,0,1,0,1,0,0,0,1
+23,Employee_23,16,High school,22,Male,122888.0,Expert,20-25,7228.705882352941,True,0,1,0,0,1,0,0,0,0,0,0,0
+24,Employee_24,15,Master,48,Male,64790.0,Expert,46-55,4049.375,True,3,1,1,0,0,0,0,0,0,0,0,1
+25,Employee_25,8,High school,34,Female,132455.0,Mid-Level,26-35,14717.222222222223,False,0,0,1,0,0,0,0,0,0,0,0,0
+26,Employee_26,14,Master,24,Male,30600.0,Senior,20-25,2040.0,True,3,1,0,1,0,0,0,0,1,0,1,0
+27,Employee_27,8,Bachelor,27,Female,119660.0,Mid-Level,26-35,13295.555555555555,False,2,0,0,1,0,0,0,1,0,0,0,0
+28,Employee_28,16,Master,29,Female,118179.0,Expert,26-35,6951.705882352941,True,3,0,0,0,0,0,0,0,1,0,0,0
+29,Employee_29,13,High school,48,Male,65764.0,Senior,46-55,4697.428571428572,True,0,1,0,0,1,0,0,0,0,0,0,1
+30,Employee_30,18,High school,30,Male,99543.0,Expert,26-35,5239.105263157895,True,0,1,0,0,1,0,0,1,0,0,0,1
+31,Employee_31,15,Bachelor,54,Female,70714.0,Expert,46-55,4419.625,True,2,0,0,1,0,0,0,0,1,0,0,1
+32,Employee_32,13,Master,45,Female,81835.0,Senior,36-45,5845.357142857143,True,3,0,0,0,1,0,0,0,1,0,0,1
+33,Employee_33,9,Master,36,Male,127946.0,Mid-Level,36-45,12794.6,False,3,1,0,0,1,0,0,0,0,0,0,0
+34,Employee_34,15,Bachelor,53,Female,134616.0,Expert,46-55,8413.5,True,2,0,1,0,0,0,0,1,0,0,0,0
+35,Employee_35,13,Master,53,Male,130983.0,Senior,46-55,9355.92857142857,True,3,1,0,1,0,0,0,0,0,0,0,0
+36,Employee_36,1,Master,45,Female,98744.0,Junior,36-45,49372.0,False,3,0,0,0,0,1,0,1,0,0,0,1
+37,Employee_37,7,High school,33,Male,81491.0,Mid-Level,26-35,10186.375,False,0,1,0,1,0,0,1,0,0,0,0,1
+38,Employee_38,9,Master,23,Male,149123.0,Mid-Level,20-25,14912.3,False,3,1,0,0,0,1,0,0,0,1,0,0
+39,Employee_39,1,Master,24,Male,43589.0,Junior,20-25,21794.5,False,3,1,1,0,0,0,0,0,0,1,1,0
+40,Employee_40,12,Bachelor,38,Female,68484.0,Senior,36-45,5268.0,True,2,0,0,0,0,0,0,0,0,1,0,1
+41,Employee_41,8,Bachelor,23,Female,107989.0,Mid-Level,20-25,11998.777777777777,False,2,0,0,0,1,0,0,0,0,0,0,0
+42,Employee_42,11,Phd,23,Male,61212.0,Senior,20-25,5101.0,True,4,1,1,0,0,0,1,0,0,0,0,1
+43,Employee_43,19,High school,49,Female,68525.0,Expert,46-55,3426.25,True,0,0,0,0,1,0,0,1,0,0,0,1
+44,Employee_44,17,Master,44,Male,72202.0,Expert,36-45,4011.222222222222,True,3,1,0,0,0,0,0,0,1,0,0,1
+45,Employee_45,8,Master,53,Male,57635.0,Mid-Level,46-55,6403.888888888889,False,3,1,0,0,0,0,0,1,0,0,0,1
+46,Employee_46,3,Phd,54,Female,88208.0,Junior,46-55,22052.0,False,4,0,1,0,0,0,0,0,1,0,0,1
+47,Employee_47,3,Master,22,Female,58828.0,Junior,20-25,14707.0,False,3,0,0,0,0,0,0,1,0,0,0,1
+48,Employee_48,1,High school,40,Male,43711.0,Junior,36-45,21855.5,False,0,1,0,0,0,1,1,0,0,0,1,0
+49,Employee_49,5,Phd,23,Female,28420.0,Mid-Level,20-25,4736.666666666667,False,4,0,0,0,0,0,0,0,1,0,1,0
+50,Employee_50,10,High school,47,Female,121752.0,Senior,46-55,11068.363636363636,True,0,0,0,0,1,0,0,0,0,0,0,0
