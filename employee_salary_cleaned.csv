@@ -1,0 +1,51 @@
+EmployeeID,Name,Department,Experience_Years,Education_Level,Age,Gender,City,Monthly_Salary,Salary_Bracket,Experience_Category,Age_Group,Salary_Per_Experience,Is_Senior
+1,Employee_1,Marketing,15,Master,53,Female,Delhi,111416.0,High,Expert,46-55,6963.5,True
+2,Employee_2,Operations,7,Bachelor,25,Female,Bangalore,95271.0,Medium,Mid-Level,20-25,11908.875,False
+3,Employee_3,It,12,High school,51,Female,Hyderabad,69064.0,Medium,Senior,46-55,5312.615384615385,True
+4,Employee_4,Operations,8,Phd,44,Male,Delhi,95091.0,Medium,Mid-Level,36-45,10565.666666666666,False
+5,Employee_5,Operations,15,Master,36,Female,Delhi,132450.0,High,Expert,36-45,8278.125,True
+6,Employee_6,Finance,3,High school,50,Male,Mumbai,65818.0,Medium,Junior,46-55,16454.5,False
+7,Employee_7,It,14,Phd,57,Male,Mumbai,70525.0,Medium,Senior,55+,4701.666666666667,True
+8,Employee_8,It,17,Phd,34,Female,Bangalore,44830.0,Low,Expert,26-35,2490.5555555555557,True
+9,Employee_9,It,4,Bachelor,53,Male,Hyderabad,42429.0,Low,Junior,46-55,8485.8,False
+10,Employee_10,Operations,18,High school,28,Male,Mumbai,31893.0,Low,Expert,26-35,1678.578947368421,True
+11,Employee_11,Marketing,8,Phd,43,Male,Delhi,141381.0,High,Mid-Level,36-45,15709.0,False
+12,Employee_12,It,4,Master,49,Female,Hyderabad,104909.0,High,Junior,46-55,20981.8,False
+13,Employee_13,Operations,2,Master,23,Female,Hyderabad,72333.0,Medium,Junior,20-25,24111.0,False
+14,Employee_14,Finance,6,Bachelor,27,Male,Delhi,28436.0,Low,Mid-Level,26-35,4062.285714285714,False
+15,Employee_15,Marketing,10,Phd,49,Female,Mumbai,99290.0,Medium,Senior,46-55,9026.363636363636,True
+16,Employee_16,Finance,4,High school,49,Female,Delhi,101213.0,High,Junior,46-55,20242.6,False
+17,Employee_17,Marketing,18,Master,41,Female,Hyderabad,30895.0,Low,Expert,36-45,1626.0526315789473,True
+18,Employee_18,Operations,12,Phd,51,Female,Chennai,44738.0,Low,Senior,46-55,3441.3846153846152,True
+19,Employee_19,Hr,2,Phd,32,Male,Chennai,55746.0,Medium,Junior,26-35,18582.0,False
+20,Employee_20,Marketing,10,Bachelor,49,Male,Bangalore,74377.0,Medium,Senior,46-55,6761.545454545455,True
+21,Employee_21,Finance,4,Master,46,Female,Delhi,73404.0,Medium,Junior,46-55,14680.8,False
+22,Employee_22,Operations,14,Master,54,Female,Delhi,79045.0,Medium,Senior,46-55,5269.666666666667,True
+23,Employee_23,Marketing,16,High school,22,Male,Bangalore,122888.0,High,Expert,20-25,7228.705882352941,True
+24,Employee_24,Hr,15,Master,48,Male,Bangalore,64790.0,Medium,Expert,46-55,4049.375,True
+25,Employee_25,Hr,8,High school,34,Female,Bangalore,132455.0,High,Mid-Level,26-35,14717.222222222223,False
+26,Employee_26,It,14,Master,24,Male,Hyderabad,30600.0,Low,Senior,20-25,2040.0,True
+27,Employee_27,It,8,Bachelor,27,Female,Delhi,119660.0,High,Mid-Level,26-35,13295.555555555555,False
+28,Employee_28,Finance,16,Master,29,Female,Hyderabad,118179.0,High,Expert,26-35,6951.705882352941,True
+29,Employee_29,Marketing,13,High school,48,Male,Bangalore,65764.0,Medium,Senior,46-55,4697.428571428572,True
+30,Employee_30,Marketing,18,High school,30,Male,Delhi,99543.0,Medium,Expert,26-35,5239.105263157895,True
+31,Employee_31,It,15,Bachelor,54,Female,Hyderabad,70714.0,Medium,Expert,46-55,4419.625,True
+32,Employee_32,Marketing,13,Master,45,Female,Hyderabad,81835.0,Medium,Senior,36-45,5845.357142857143,True
+33,Employee_33,Marketing,9,Master,36,Male,Bangalore,127946.0,High,Mid-Level,36-45,12794.6,False
+34,Employee_34,Hr,15,Bachelor,53,Female,Delhi,134616.0,High,Expert,46-55,8413.5,True
+35,Employee_35,It,13,Master,53,Male,Bangalore,130983.0,High,Senior,46-55,9355.92857142857,True
+36,Employee_36,Operations,1,Master,45,Female,Delhi,98744.0,Medium,Junior,36-45,49372.0,False
+37,Employee_37,It,7,High school,33,Male,Chennai,81491.0,Medium,Mid-Level,26-35,10186.375,False
+38,Employee_38,Operations,9,Master,23,Male,Mumbai,149123.0,High,Mid-Level,20-25,14912.3,False
+39,Employee_39,Hr,1,Master,24,Male,Mumbai,43589.0,Low,Junior,20-25,21794.5,False
+40,Employee_40,Finance,12,Bachelor,38,Female,Mumbai,68484.0,Medium,Senior,36-45,5268.0,True
+41,Employee_41,Marketing,8,Bachelor,23,Female,Bangalore,107989.0,High,Mid-Level,20-25,11998.777777777777,False
+42,Employee_42,Hr,11,Phd,23,Male,Chennai,61212.0,Medium,Senior,20-25,5101.0,True
+43,Employee_43,Marketing,19,High school,49,Female,Delhi,68525.0,Medium,Expert,46-55,3426.25,True
+44,Employee_44,Finance,17,Master,44,Male,Hyderabad,72202.0,Medium,Expert,36-45,4011.222222222222,True
+45,Employee_45,Finance,8,Master,53,Male,Delhi,57635.0,Medium,Mid-Level,46-55,6403.888888888889,False
+46,Employee_46,Hr,3,Phd,54,Female,Hyderabad,88208.0,Medium,Junior,46-55,22052.0,False
+47,Employee_47,Finance,3,Master,22,Female,Delhi,58828.0,Medium,Junior,20-25,14707.0,False
+48,Employee_48,Operations,1,High school,40,Male,Chennai,43711.0,Low,Junior,36-45,21855.5,False
+49,Employee_49,Finance,5,Phd,23,Female,Hyderabad,28420.0,Low,Mid-Level,20-25,4736.666666666667,False
+50,Employee_50,Marketing,10,High school,47,Female,Bangalore,121752.0,High,Senior,46-55,11068.363636363636,True
